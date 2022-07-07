@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a student of Computer Engineering
+- 👩‍💻 I’m a student of Computer Engineering
 - 🌱 I’m currently learning to program in C
 - 🗂️ For now I´m just here to share my college projects
 - 📫 How to reach me: rosana.crodrigues.18@gmail.com
