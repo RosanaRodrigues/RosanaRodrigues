@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 
 ##
 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rosa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
+          
