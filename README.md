@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanarodrigues&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarodrigues&layout=compact&theme=gruvbox)
 
+<div style="display: inline_block">
+
 <!-- <div align="center">
   <a href="https://github.com/rosanarodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosanarodrigues&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
