@@ -19,16 +19,18 @@ Here are some ideas to get you started:
 
 ##
 
-<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanarodrigues&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarodrigues&layout=compact&theme=gruvbox)
+
+<!-- <div align="center">
   <a href="https://github.com/rosanarodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosanarodrigues&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarodrigues&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+</div> -->
 
 ##
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rosa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Rosa-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
   ##
