@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 I’m a student of Computer Engineering
-- 🌱 I’m currently learning to program in C
+- 🌱 I’m currently learning to program in HTML and CSS
 - 🗂️ For now I´m just here to share my college projects
 - 📫 How to reach me: rosana.crodrigues.18@gmail.com
 - 😄 Pronouns: ela/dela
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   <div style="display: inline_block"><br>
   <img align="center" alt="Rosa-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
   <img align="center" alt="Rosa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <!--
   <img align="center" alt="Rosa-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Rosa-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <!--
   <img align="center" alt="Rosa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Rosa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     -->
