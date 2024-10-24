@@ -36,8 +36,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Rosa-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <!--
   <img align="center" alt="Rosa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  -->
   <img align="center" alt="Rosa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    -->
+    
 </div>
   
   ##
