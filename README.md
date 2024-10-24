@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 I’m a student of Computer Engineering
-- 🌱 I’m currently learning to program in HTML and CSS
+- 🌱 I’m currently learning to program in Javascript 
 - 🗂️ For now I´m just here to share my college projects
 - 📫 How to reach me: rosana.crodrigues.18@gmail.com
 - 😄 Pronouns: ela/dela
