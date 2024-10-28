@@ -1,3 +1,5 @@
+![Banner](githubcapa.jpg)
+
 ### 👋 I´m @RosanaRodrigues
 
 <!--
