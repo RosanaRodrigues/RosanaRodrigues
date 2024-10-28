@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanarodrigues&show_icons=true&theme=synthwave) <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarodrigues&layout=compact&theme=synthwave) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanarodrigues&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarodrigues&layout=compact&theme=synthwave)
 
 <!-- <div align="center">
   <a href="https://github.com/rosanarodrigues">
