@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <!-- - 📫 How to reach me: rosana.crodrigues.18@gmail.com -->
 - 😄 Pronouns: ela/dela
 
+![](https://komarev.com/ghpvc/?username=rosanarodrigues&color=blueviolet)
+
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanarodrigues&show_icons=true&theme=synthwave)
