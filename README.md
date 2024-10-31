@@ -11,15 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: ...
 -->
 
 - 👩‍💻 I’m a student of Computer Engineering
 - 🌱 I’m currently learning to program in Javascript 
 - 🗂️ For now I´m just here to share my college projects
-  <!-- - 📫 How to reach me: rosana.crodrigues.18@gmail.com -->
 - 😄 Pronouns: ela/dela
 
-![](https://komarev.com/ghpvc/?username=rosanarodrigues&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=rosanarodrigues&color=blueviolet)
 
 ##
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     
 </div>
   
-  ##
+##
           
 <div> 
  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
