@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
+- 😄 Pronouns: ...
 -->
 
 - 👩‍💻 I’m a student of Computer Engineering
 - 🌱 I’m currently learning to program in Javascript 
 - 🗂️ For now I´m just here to share my college projects
-- 😄 Pronouns: ela/dela
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rosanarodrigues&color=blueviolet)
 
